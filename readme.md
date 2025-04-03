@@ -10,17 +10,14 @@
 - 🧠 Expert in **Full-Stack Web Development**
 - ⚙️ Focused on **DevOps** and building **scalable, distributed systems**
 - 🌐 Currently exploring **Cloud Architecture** and **Microservices**
-- 🛠️ Love working with **Next.js**, **NestJS**, **React**, **Node.js**, **Docker**, and **Kubernetes**
-- 📫 Reach me at: **tayyabashraf.dev@gmail.com**
+- 🛠️ Love working with **Next.js**, **NestJS**, **React**, **Node.js**, **Docker**, and **Deployment**
+- 📫 Reach me at: **mtayyabmalik99@gmail.com**
 ---
 
 ### 🌐 Connect With Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/tayyabashrafdev" target="_blank">
+  <a href="https://www.linkedin.com/in/tayyab-ashraf-618b30199/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tayyabashrafdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
@@ -39,27 +36,12 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
 
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
   ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=git)
 
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
   ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabashrafdev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabashrafdev&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabashrafdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
