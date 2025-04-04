@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" />, I'm Tayyab Ashraf</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F7B32B&size=28&lines=Expert+Full-Stack+Developer;DevOps+Enthusiast+⚙️;Builder+of+Scalable+Systems+🚀;Let’s+build+something+great+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F7B32B&size=28&lines=Expert+Full-Stack+Developer;DevOps+Engineer+⚙️;Builder+of+Scalable+Systems+🚀;Let’s+build+something+great+together!" />
 </h3>
 
 ---
@@ -12,7 +12,6 @@
 - 🌐 Currently exploring **Cloud Architecture** and **Microservices**
 - 🛠️ Love working with **Next.js**, **NestJS**, **React**, **Node.js**, **Docker**, and **Kubernetes**
 - 📫 Reach me at: **tayyabashraf.dev@gmail.com**
-
 ---
 
 ### 🌐 Connect With Me:
